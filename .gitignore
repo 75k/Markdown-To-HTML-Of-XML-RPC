@@ -1,0 +1,5 @@
+# osx
+*~
+.DS_Store
+sftp-config.json
+gradle.properties
